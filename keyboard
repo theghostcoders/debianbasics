@@ -1,0 +1,6 @@
+XKBMODEL="pc105"
+XKBLAYOUT="br"
+XKBVARIANT="abnt2"
+XKBOPTIONS="lv3:ralt_switch,compose:rctrl"
+
+BACKSPACE="guess"

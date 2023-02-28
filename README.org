@@ -9,3 +9,4 @@ There's a script for set keyboard layout to br-abnt2 for those having trouble wh
   2. Give +x permissions.
   3. Run.
 
+You can also download the =keyboard= file and copy it to */etc/default* and run =setupcon= but you have to satisfy the =console-data= dependency first.
