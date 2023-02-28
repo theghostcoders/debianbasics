@@ -1,0 +1,11 @@
+* Debian Basic Config
+
+This is some basic configs for debian post-install.
+
+There's a script for set keyboard layout to br-abnt2 for those having trouble when setting this up.
+
+- Basically:
+  1. Download.
+  2. Give +x permissions.
+  3. Run.
+
